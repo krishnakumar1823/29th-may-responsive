@@ -456,8 +456,15 @@
 	list-style-type:none;
 	line-height:28px;
 }
+.sec8-cnt-list .sec8-list li a{
+	text-decoration:none;
+	color:black;
+}
 .sec8-cnt-list .sec8-list i{
 	padding-right:10px;
+	color:#5fcf80; 
+}
+.sec8-cnt-list .sec8-list li a:hover{
 	color:#5fcf80; 
 }
 .sec8-cnt-3 p{
